@@ -12,11 +12,11 @@ export default function NavBar(): ReactElement {
           <Title>Meme Maker</Title>
           <Contact>
             <Info>
-              <GitLink href="https://github.com/atomsong9090">
+              <GitLink href="https://github.com/atomsong9090/MemeMaker">
                 <Git src={git} />
               </GitLink>
             </Info>
-            <GitLink href="https://github.com/atomsong9090">버그제보 / 깃허브</GitLink>
+            <GitLink href="https://github.com/atomsong9090/MemeMaker">버그제보 / 깃허브</GitLink>
           </Contact>
         </Content>
       </Main>
